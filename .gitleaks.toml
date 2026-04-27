@@ -1,0 +1,7 @@
+[allowlist]
+description = "Portfolio project allowlist"
+paths = [
+    '''package-lock\.json''',
+    '''\.next/.*''',
+    '''node_modules/.*''',
+]

@@ -1,0 +1,8 @@
+rules:
+  # Use recommended rulesets
+  - id: nextjs-security
+    pattern: p/nextjs
+  - id: owasp
+    pattern: p/owasp-top-ten
+  - id: typescript-best-practices
+    pattern: p/typescript
