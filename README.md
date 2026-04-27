@@ -4,7 +4,7 @@ Bu proje, modern web teknolojileri ve DevOps pratikleri kullanılarak sıfırdan
 
 ## 👨‍🎓 Öğrenci Bilgileri
 - **Ad Soyad:** Furkan Güngördü
-- **Öğrenci Numarası:** [Numaranızı Buraya Yazın]
+- **Öğrenci Numarası:** 24080410024
 - **Ders:** Davut Hoca'nın Dersi - 4. Hafta Projesi
 
 ## ✨ Proje Özellikleri
